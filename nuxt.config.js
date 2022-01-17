@@ -83,7 +83,6 @@ export default {
   },
 
   server: {
-    port: 8888,
     host: '0.0.0.0', // default: localhost,
     timing: false
   }
